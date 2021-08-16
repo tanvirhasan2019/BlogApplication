@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.footer-main{
+
+    width: 100%;
+    background-color: black;
+
+}
+
+.li-social-icon{
+    margin: 15px;
+    color:blanchedalmond;
+    cursor: pointer;
+}
+
+.footer-text{
+    color: white;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    width: 100%;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}

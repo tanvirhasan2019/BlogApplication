@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+
+.top-rated-movie-header{
+  width: 100%;
+  background-color: black;
+  height: 40px;
+  margin-top: 15px;
+}
+
+.top-rated-movie-text{
+  color: white;
+  font-family: 'Uchen', serif;
+  text-align: center;
+}
